@@ -73,3 +73,53 @@ np.random.randint(1,100)
 np.random.randint(1,100,10)
 
 
+// More Array Practice
+
+ranarr.min()
+
+ranarr
+
+arr.shape
+
+arr.dtype
+
+import numpy as np
+
+arr = np.arrange(0,11)
+
+arr = np.arange(0,11)
+
+arr
+
+arr[8]
+
+arr[1:5]
+
+arr[:6]
+
+arr[0:6]
+
+arr[5:]
+
+arr[0:5] = 100
+
+arr = np.arange(0,11)
+
+arr
+
+slice_of_arr = arr[0:6]
+
+slice_of_arr
+
+slice_of_arr[:]=99
+
+slice_of_arr
+
+arr
+
+arr_copy = arr.copy()
+
+arr
+
+arr_copy[:] = 100
+
