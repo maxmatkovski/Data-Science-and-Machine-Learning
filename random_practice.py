@@ -34,3 +34,11 @@ arr[arr>5]
 
 arr[arr < 3]
 
+
+arr_2d = np.arange(50).reshape(5,10)
+
+arr_2d
+
+arr_2d[1:3]
+
+
