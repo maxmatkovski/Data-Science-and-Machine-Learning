@@ -41,4 +41,37 @@ arr_2d
 
 arr_2d[1:3]
 
+// Array Operators
+
+import numpy as np
+
+arr = np.arange(0,11)
+
+arr
+
+arr + arr
+
+arr - arr
+
+arr * arr 
+
+arr  + 100
+
+arr * 100
+
+arr - 100
+
+arr / arr
+
+arr ** 2
+
+np.sqrt(arr)
+
+np.max(arr)
+
+arr.max()
+
+np.sin(arr)
+
+
 
